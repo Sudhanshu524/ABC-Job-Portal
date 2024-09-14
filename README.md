@@ -56,19 +56,19 @@ Security requirements
  ![image](https://github.com/user-attachments/assets/f6b5d472-8cb3-4a51-a9ab-5d37d7b05cbc)
 
 Some Important Pages:
-	Registration Page:
+Registration Page:
 	![image](https://github.com/user-attachments/assets/8f92fc59-d2c3-40d8-b38e-fa319da2db2d)
- 
- 	Email Confirmation Page:
+ 	 
+Email Confirmation Page:
   	![image](https://github.com/user-attachments/assets/7814d7cd-d2fc-4434-98e1-66c8da3e3f46)
    
-   	Login Page with Forget Password feature
+Login Page with Forget Password feature
     	![image](https://github.com/user-attachments/assets/ec3a8fd1-bd6e-4b8a-a566-439fe6578cb9)
      
-	View all profile(Admin)
+View all profile(Admin)
  	![image](https://github.com/user-attachments/assets/611ccef5-e6c0-480e-8000-8af58ed551d7)
   
-	Search Users
+Search Users
  	![image](https://github.com/user-attachments/assets/41b1beba-1ee2-4a51-ac8e-d8d99afe4042)
 
 
