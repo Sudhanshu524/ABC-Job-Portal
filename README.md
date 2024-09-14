@@ -8,7 +8,7 @@ To make a community portal with the following requirements
 • Search Users Page for both admin and users
 • Public Profile Page 
 • Login System
-• Forget Password Page with the Confirmation Page 
+• Forget Password Page with the Confirmation Page
 • Admin Page in which admin can Edit and Delete Profile of users
 
 Minimum Technical  Requirements
